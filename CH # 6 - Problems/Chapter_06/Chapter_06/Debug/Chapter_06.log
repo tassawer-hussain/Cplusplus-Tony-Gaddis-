@@ -1,0 +1,36 @@
+﻿Build started 5/8/2016 1:45:07 AM.
+     1>Project "C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Chapter_06\Chapter_06.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Problem_06-24.cpp"
+         Problem_06-24.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Debug\Chapter_06.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Debug\Chapter_06.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Debug\Chapter_06.lib" /MACHINE:X86 "Debug\Problem_06-01.obj"
+         "Debug\Problem_06-02.obj"
+         "Debug\Problem_06-03.obj"
+         "Debug\Problem_06-04.obj"
+         "Debug\Problem_06-05.obj"
+         "Debug\Problem_06-06.obj"
+         "Debug\Problem_06-07.obj"
+         "Debug\Problem_06-08.obj"
+         "Debug\Problem_06-09.obj"
+         "Debug\Problem_06-10.obj"
+         "Debug\Problem_06-11.obj"
+         "Debug\Problem_06-12.obj"
+         "Debug\Problem_06-13.obj"
+         "Debug\Problem_06-14.obj"
+         "Debug\Problem_06-15.obj"
+         "Debug\Problem_06-16.obj"
+         "Debug\Problem_06-17.obj"
+         "Debug\Problem_06-18.obj"
+         "Debug\Problem_06-19.obj"
+         "Debug\Problem_06-20.obj"
+         "Debug\Problem_06-21.obj"
+         "Debug\Problem_06-22.obj"
+         "Debug\Problem_06-23.obj"
+         "Debug\Problem_06-24.obj"
+         Chapter_06.vcxproj -> C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Debug\Chapter_06.exe
+     1>Done Building Project "C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_06\Chapter_06\Chapter_06.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.15

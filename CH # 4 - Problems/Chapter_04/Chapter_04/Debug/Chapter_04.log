@@ -1,0 +1,38 @@
+﻿Build started 7/8/2015 1:31:33 AM.
+     1>Project "C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Chapter_04\Chapter_04.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Problem_04-26.cpp"
+         Problem_04-26.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Debug\Chapter_04.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Debug\Chapter_04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Debug\Chapter_04.lib" /MACHINE:X86 "Debug\Problem_04-01.obj"
+         "Debug\Problem_04-02.obj"
+         "Debug\Problem_04-03.obj"
+         "Debug\Problem_04-04.obj"
+         "Debug\Problem_04-05.obj"
+         "Debug\Problem_04-06.obj"
+         "Debug\Problem_04-07.obj"
+         "Debug\Problem_04-08.obj"
+         "Debug\Problem_04-09.obj"
+         "Debug\Problem_04-10.obj"
+         "Debug\Problem_04-11.obj"
+         "Debug\Problem_04-12.obj"
+         "Debug\Problem_04-13.obj"
+         "Debug\Problem_04-14.obj"
+         "Debug\Problem_04-15.obj"
+         "Debug\Problem_04-16.obj"
+         "Debug\Problem_04-17.obj"
+         "Debug\Problem_04-18.obj"
+         "Debug\Problem_04-19.obj"
+         "Debug\Problem_04-20.obj"
+         "Debug\Problem_04-21.obj"
+         "Debug\Problem_04-22.obj"
+         "Debug\Problem_04-23.obj"
+         "Debug\Problem_04-24.obj"
+         "Debug\Problem_04-25.obj"
+         "Debug\Problem_04-26.obj"
+         Chapter_04.vcxproj -> C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Debug\Chapter_04.exe
+     1>Done Building Project "C:\Users\Tassawer\documents\visual studio 2012\Projects\Chapter_04\Chapter_04\Chapter_04.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.92

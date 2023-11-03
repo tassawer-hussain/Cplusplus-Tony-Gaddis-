@@ -1,0 +1,40 @@
+﻿Build started 5/2/2016 11:54:36 PM.
+     1>Project "C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Chapter_05\Chapter_05.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Problem_05-25.cpp" "Problem_05-26.cpp"
+         Problem_05-26.cpp
+         Problem_05-25.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Debug\Chapter_05.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Debug\Chapter_05.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Debug\Chapter_05.lib" /MACHINE:X86 "Debug\Problem_05-01.obj"
+         "Debug\Problem_05-02.obj"
+         "Debug\Problem_05-03.obj"
+         "Debug\Problem_05-04.obj"
+         "Debug\Problem_05-05.obj"
+         "Debug\Problem_05-06.obj"
+         "Debug\Problem_05-07.obj"
+         "Debug\Problem_05-08.obj"
+         "Debug\Problem_05-09.obj"
+         "Debug\Problem_05-10.obj"
+         "Debug\Problem_05-11.obj"
+         "Debug\Problem_05-12.obj"
+         "Debug\Problem_05-13.obj"
+         "Debug\Problem_05-14.obj"
+         "Debug\Problem_05-15.obj"
+         "Debug\Problem_05-16.obj"
+         "Debug\Problem_05-17.obj"
+         "Debug\Problem_05-18.obj"
+         "Debug\Problem_05-19.obj"
+         "Debug\Problem_05-20.obj"
+         "Debug\Problem_05-21.obj"
+         "Debug\Problem_05-22.obj"
+         "Debug\Problem_05-23.obj"
+         "Debug\Problem_05-24.obj"
+         "Debug\Problem_05-25.obj"
+         "Debug\Problem_05-26.obj"
+         Chapter_05.vcxproj -> C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Debug\Chapter_05.exe
+     1>Done Building Project "C:\Users\Tassawer\Documents\Visual Studio 2012\Projects\Chapter_05\Chapter_05\Chapter_05.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.51

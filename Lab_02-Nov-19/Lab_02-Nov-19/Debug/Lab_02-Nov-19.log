@@ -1,0 +1,13 @@
+﻿Build started 7/3/2015 4:44:10 PM.
+     1>Project "c:\Users\Tassawer\documents\visual studio 2013\Projects\Lab_02-Nov-19\Lab_02-Nov-19\Lab_02-Nov-19.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Task_02-03.cpp" "Task_02-04.cpp"
+         Task_02-04.cpp
+     1>c:\users\tassawer\documents\visual studio 2013\projects\lab_02-nov-19\lab_02-nov-19\task_02-04.cpp(46): fatal error C1075: end of file found before the left brace '{' at 'c:\users\tassawer\documents\visual studio 2013\projects\lab_02-nov-19\lab_02-nov-19\task_02-04.cpp(10)' was matched
+         Task_02-03.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\Tassawer\documents\visual studio 2013\Projects\Lab_02-Nov-19\Lab_02-Nov-19\Lab_02-Nov-19.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.12

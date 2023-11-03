@@ -1,0 +1,11 @@
+
+
+
+		Patient Reports
+Patient Status: In-Patient
+Days Stay: 6
+Daily Charges: 10000
+Hospital Charges: 65000
+Medical Charges: 35000
+Total Charges: 160000
+
